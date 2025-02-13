@@ -9,3 +9,9 @@
 - **Vulnerability Scanning**: Identifying and assessing system weaknesses.
 - **Patch Management**: Deploying updates to fix vulnerabilities and improve security.
 - **Configuration and Change Management**: Ensuring security settings are properly maintained.
+
+### **3. Incident Response & Threat Intelligence**
+- **Indicators of Compromise (IoCs)**: Identifying signs of potential cyber threats.
+- **MITRE ATT&CK Framework**: Categorizes adversary tactics and techniques.
+- **Security Awareness Training**: Educating users to recognize and respond to security threats.
+
