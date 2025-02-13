@@ -15,3 +15,8 @@
   - **Risk Mitigation**
 
 ---
+
+## **Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts**
+### **1. Business Continuity Planning (BCP)**
+- **Purpose:** Ensures critical business functions continue during disasters.
+- **Key Elements:** Risk analysis, impact assessment, continuity strategies.
