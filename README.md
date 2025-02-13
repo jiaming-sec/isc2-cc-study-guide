@@ -7,6 +7,7 @@ Welcome to my ISC2 CC exam study repository! This repo contains my notes, study 
 - **[ ] Week 2:** Business Continuity, DRP, and Risk Management
 - **[ ] Week 3:** Access Control, IAM
 - **[ ] Week 4:** Network Security, Threats, and Attacks
+- **[ ] Week 5:** Security Operations
 
 ## 📚 Study Materials
 - ISC2 Official CC Study Guide
