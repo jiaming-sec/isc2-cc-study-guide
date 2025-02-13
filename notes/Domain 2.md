@@ -8,10 +8,10 @@
 - **Disaster Recovery Exercises (Tabletop Exercises, Full-Scale Tests)**
 
 ### **2. Disaster Recovery Planning (DRP)**
-- **Data Backup Strategies (Full, Incremental, Differential, Continuous Data Protection - CDP)**
-- **Disaster Recovery Sites (Hot, Warm, Cold Sites, Cloud-Based Recovery Solutions)**
-- **Recovery Objectives: RTO (Recovery Time Objective) & RPO (Recovery Point Objective)**
-- **Disaster Recovery as a Service (DRaaS)**
+- **Data Backup Strategies**: Full, incremental, differential, and continuous data protection (CDP) methods to prevent data loss.
+- **Disaster Recovery Sites**: Hot, warm, and cold sites used to restore operations in the event of a disaster.
+- **Recovery Time Objective (RTO) & Recovery Point Objective (RPO)**: Defines acceptable limits for recovery speed and data loss.
+- **Disaster Recovery as a Service (DRaaS)**: Cloud-based solutions for rapid recovery of IT infrastructure.
 
 ### **3. Incident Response (IR)**
 - **Phases of Incident Response:**
