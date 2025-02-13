@@ -1,8 +1,11 @@
 
 ## **Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts**
 ### **1. Business Continuity Planning (BCP)**
-- **Purpose:** Ensures critical business functions continue during disasters.
-- **Key Elements:** Risk analysis, impact assessment, continuity strategies.
+- **Risk Analysis and Business Impact Analysis (BIA)**
+- **Continuity Strategies (Redundancy, Alternate Sites, Cloud Solutions)**
+- **Crisis Communication Plans**
+- **Testing and Updating BCP Strategies**
+- **Disaster Recovery Exercises (Tabletop Exercises, Full-Scale Tests)**
 
 ### **2. Disaster Recovery Planning (DRP)**
 - **Purpose:** Provides steps to recover IT infrastructure after an incident.
