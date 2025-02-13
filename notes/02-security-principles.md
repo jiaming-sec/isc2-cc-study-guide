@@ -21,3 +21,7 @@
 ### **1. Business Continuity Planning (BCP)**
 - **Purpose:** Ensures critical business functions continue during disasters.
 - **Key Elements:** Risk analysis, impact assessment, continuity strategies.
+  
+### **2. Disaster Recovery Planning (DRP)**
+- **Purpose:** Provides steps to recover IT infrastructure after an incident.
+- **Common Strategies:** Backups, alternate sites, failover systems.
