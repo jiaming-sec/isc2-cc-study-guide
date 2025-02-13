@@ -8,8 +8,10 @@
 - **Disaster Recovery Exercises (Tabletop Exercises, Full-Scale Tests)**
 
 ### **2. Disaster Recovery Planning (DRP)**
-- **Purpose:** Provides steps to recover IT infrastructure after an incident.
-- **Common Strategies:** Backups, alternate sites, failover systems.
+- **Data Backup Strategies (Full, Incremental, Differential, Continuous Data Protection - CDP)**
+- **Disaster Recovery Sites (Hot, Warm, Cold Sites, Cloud-Based Recovery Solutions)**
+- **Recovery Objectives: RTO (Recovery Time Objective) & RPO (Recovery Point Objective)**
+- **Disaster Recovery as a Service (DRaaS)**
 
 ### **3. Incident Response (IR)**
 - **Phases of Incident Response:**
