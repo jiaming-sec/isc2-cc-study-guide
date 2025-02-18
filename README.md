@@ -38,3 +38,13 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 - **Passing Score:** 700/1000  
 - **Exam Fee:** Free with ISC2 One Million Certified in Cybersecurity initiative  
 - **Format:** Online, Proctored  
+
+### 📚 **Domains Covered in the ISC2 CC Exam:**  
+
+| Domain No. | Domain Name | Weight |
+|------------|------------|--------|
+| 1️⃣ | **Security Principles** | 26% |
+| 2️⃣ | **Business Continuity, Disaster Recovery & Incident Response** | 10% |
+| 3️⃣ | **Access Controls Concepts** | 22% |
+| 4️⃣ | **Network Security** | 24% |
+| 5️⃣ | **Security Operations** | 18% |
