@@ -48,3 +48,12 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 | 3️⃣ | **Access Controls Concepts** | 22% |
 | 4️⃣ | **Network Security** | 24% |
 | 5️⃣ | **Security Operations** | 18% |
+
+---
+
+## 📚 **Study Materials**  
+
+### 📂 **Official Resources**  
+- 📘 [ISC2 Certified in Cybersecurity Official Study Guide](https://www.isc2.org/Training/Self-Paced/CC)  
+- 🎥 [ISC2 Free Training Course](https://www.isc2.org/Certifications/CC)  
+- 📄 [ISC2 Exam Outline (PDF)](https://www.isc2.org/-/media/ISC2/Certifications/CC/CC-Exam-Outline.ashx)  
