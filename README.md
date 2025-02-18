@@ -57,3 +57,16 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 - 📘 [ISC2 Certified in Cybersecurity Official Study Guide](https://www.isc2.org/Training/Self-Paced/CC)  
 - 🎥 [ISC2 Free Training Course](https://www.isc2.org/Certifications/CC)  
 - 📄 [ISC2 Exam Outline (PDF)](https://www.isc2.org/-/media/ISC2/Certifications/CC/CC-Exam-Outline.ashx)  
+
+### 📂 **Additional Study Notes & Summaries**  
+- 📄 [My Study Notes](./notes/)  
+- 🖥️ [Practice Quizzes](./quizzes/)  
+- 📌 [Cheat Sheets](./cheatsheets/)  
+
+### 🎓 **Recommended Books & Online Courses**  
+- 🔥 **Cybersecurity Essentials** – Cisco Networking Academy  
+- 📖 **CompTIA Security+ Study Guide** *(useful for extended knowledge)*  
+- 🖥️ [TryHackMe – Cybersecurity Learning Path](https://tryhackme.com/)  
+- 🛡️ [Hack The Box Academy](https://academy.hackthebox.com/)  
+
+---
