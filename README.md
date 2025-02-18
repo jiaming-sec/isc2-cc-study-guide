@@ -112,3 +112,14 @@ Practicing hands-on labs is essential to reinforce theoretical knowledge. Here a
 - 🔹 **IppSec** – Penetration Testing Walkthroughs  
 
 ---
+
+## 🎯 **Exam Tips**  
+
+📌 **Here are some helpful exam tips:**  
+✅ **Understand key concepts** – Focus on fundamental security principles.  
+✅ **Use flashcards** – Helps with memorizing definitions and concepts.  
+✅ **Practice questions** – Take quizzes and mock exams regularly.  
+✅ **Hands-on experience** – Use labs to reinforce knowledge.  
+✅ **Time management** – Read questions carefully and manage time wisely.  
+
+---
