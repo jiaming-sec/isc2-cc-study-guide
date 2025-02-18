@@ -134,3 +134,11 @@ Practicing hands-on labs is essential to reinforce theoretical knowledge. Here a
 💡 Feel free to **open an issue** if you have any suggestions or improvements.
 
 ---
+
+## 📜 **License**  
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and share the content for educational purposes.
+
+---
+
+🔹 **Happy Studying & Best of Luck on Your ISC2 CC Exam!** 🎉🚀
