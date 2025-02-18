@@ -11,3 +11,18 @@ This repository is a **comprehensive study guide** for the **ISC2 Certified in C
 Whether you're new to cybersecurity or looking to validate your foundational knowledge, this study guide provides structured materials to help you succeed.
 
 ---
+
+## 📖 **Table of Contents**  
+
+- [📌 About This Repository](#-about-this-repository)
+- [📖 Table of Contents](#-table-of-contents)
+- [📜 Exam Overview](#-exam-overview)
+- [📚 Study Materials](#-study-materials)
+- [📝 Notes & Breakdown](#-notes--breakdown)
+- [🛠️ Hands-On Labs](#️-hands-on-labs)
+- [📑 Useful Resources](#-useful-resources)
+- [🎯 Exam Tips](#-exam-tips)
+- [🙌 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
