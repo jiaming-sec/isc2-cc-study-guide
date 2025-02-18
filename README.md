@@ -75,11 +75,11 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 
 📌 **Detailed Notes for Each Domain** – Available in the `/notes/` directory:  
 
-- **Domain 1: Security Principles** → [📄 Read Notes](./notes/Domain 1.md)  
-- **Domain 2: BCDR & Incident Response** → [📄 Read Notes](./notes/Domain 2.md)  
-- **Domain 3: Access Control** → [📄 Read Notes](./notes/Domain 3.md)  
-- **Domain 4: Network Security** → [📄 Read Notes](./Domain 4.md)  
-- **Domain 5: Security Operations** → [📄 Read Notes](./notes/Domain 5.md)  
+- **Domain 1: Security Principles** → [📄 Read Notes](./notes/Domain1.md)  
+- **Domain 2: BCDR & Incident Response** → [📄 Read Notes](./notes/Domain2.md)  
+- **Domain 3: Access Control** → [📄 Read Notes](./notes/Domain3.md)  
+- **Domain 4: Network Security** → [📄 Read Notes](./notes/Domain4.md)  
+- **Domain 5: Security Operations** → [📄 Read Notes](./notes/Domain5.md)  
 
 Each note contains **key concepts, definitions, diagrams, and example scenarios** to enhance learning.
 
