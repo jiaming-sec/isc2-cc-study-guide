@@ -83,4 +83,17 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 
 Each note contains **key concepts, definitions, diagrams, and example scenarios** to enhance learning.
 
+## 🛠️ **Hands-On Labs**  
+
+Practicing hands-on labs is essential to reinforce theoretical knowledge. Here are some platforms where you can gain practical experience:
+
+| Platform | Description |
+|----------|------------|
+| [TryHackMe](https://tryhackme.com/) | Beginner-friendly labs on cybersecurity fundamentals |
+| [Hack The Box](https://www.hackthebox.com/) | Practical security challenges and penetration testing |
+| [OverTheWire](https://overthewire.org/wargames/) | Linux security wargames |
+| [Blue Team Labs](https://blueteamlabs.online/) | SOC and Blue Team-focused labs |
+
+---
+
 ---
