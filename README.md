@@ -70,3 +70,17 @@ The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersec
 - 🛡️ [Hack The Box Academy](https://academy.hackthebox.com/)  
 
 ---
+
+## 📝 **Notes & Breakdown**  
+
+📌 **Detailed Notes for Each Domain** – Available in the `/notes/` directory:  
+
+- **Domain 1: Security Principles** → [📄 Read Notes](./notes/security-principles.md)  
+- **Domain 2: BCDR & Incident Response** → [📄 Read Notes](./notes/bcdr-incident-response.md)  
+- **Domain 3: Access Control** → [📄 Read Notes](./notes/access-control.md)  
+- **Domain 4: Network Security** → [📄 Read Notes](./notes/network-security.md)  
+- **Domain 5: Security Operations** → [📄 Read Notes](./notes/security-operations.md)  
+
+Each note contains **key concepts, definitions, diagrams, and example scenarios** to enhance learning.
+
+---
