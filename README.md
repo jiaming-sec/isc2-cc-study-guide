@@ -26,3 +26,15 @@ Whether you're new to cybersecurity or looking to validate your foundational kno
 - [📜 License](#-license)
 
 ---
+
+## 📜 **Exam Overview**  
+
+The **ISC2 Certified in Cybersecurity (CC)** exam is an **entry-level** cybersecurity certification designed for individuals starting their cybersecurity journey. It validates fundamental security concepts and provides a strong foundation for advancing into higher-level certifications like **Security+**, **CISSP**, and **CEH**.
+
+**📌 Key Details:**  
+- **Certification Body:** ISC2  
+- **Exam Duration:** 2 hours  
+- **Number of Questions:** ~100 multiple-choice questions  
+- **Passing Score:** 700/1000  
+- **Exam Fee:** Free with ISC2 One Million Certified in Cybersecurity initiative  
+- **Format:** Online, Proctored  
