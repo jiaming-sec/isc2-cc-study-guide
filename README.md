@@ -123,3 +123,14 @@ Practicing hands-on labs is essential to reinforce theoretical knowledge. Here a
 ✅ **Time management** – Read questions carefully and manage time wisely.  
 
 ---
+
+## 🙌 **Contributing**  
+
+🔹 **Want to contribute?** We welcome contributions to enhance this study guide!  
+- Fork this repository  
+- Add valuable study notes, corrections, or new resources  
+- Submit a pull request  
+
+💡 Feel free to **open an issue** if you have any suggestions or improvements.
+
+---
