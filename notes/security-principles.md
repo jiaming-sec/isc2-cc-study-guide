@@ -27,3 +27,9 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 - 🔹 Implement **Role-Based Access Control (RBAC)**
 - 🔹 Restrict admin privileges to essential personnel
 - 🔹 Regularly review **access permissions**
+
+### ✅ **Defense in Depth**
+> **A multi-layered security strategy minimizes attack risks.**
+- 🔹 Use **firewalls, IDS/IPS, endpoint protection, and encryption** together
+- 🔹 Employ **multi-layer authentication** (e.g., MFA + biometrics)
+- 🔹 Combine **network segmentation and intrusion monitoring**
