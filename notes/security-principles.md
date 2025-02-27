@@ -21,3 +21,9 @@ The **CIA Triad** represents the core objectives of cybersecurity:
 ## 🔐 **2. Security Principles in Practice**
 
 Beyond the **CIA Triad**, several essential security principles ensure strong cybersecurity defenses:
+
+### ✅ **Least Privilege**
+> **Users and systems should have the minimum access necessary to perform their functions.**
+- 🔹 Implement **Role-Based Access Control (RBAC)**
+- 🔹 Restrict admin privileges to essential personnel
+- 🔹 Regularly review **access permissions**
