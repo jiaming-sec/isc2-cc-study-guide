@@ -39,3 +39,8 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 - 🔹 Authenticate **every request, user, and device**
 - 🔹 Implement **continuous monitoring** (e.g., SIEM, UEBA)
 - 🔹 Enforce **micro-segmentation** to limit lateral movement
+
+### ✅ **Separation of Duties (SoD)**
+> **Splitting tasks among multiple individuals to prevent fraud and abuse.**
+- 🔹 No single user should have full control over a critical process
+- 🔹 Example: One employee **initiates** a financial transaction, another **approves** it
