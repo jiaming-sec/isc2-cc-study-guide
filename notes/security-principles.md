@@ -17,3 +17,7 @@ The **CIA Triad** represents the core objectives of cybersecurity:
 > **🔹 Example:** Banks use **encryption** to protect customer transactions (Confidentiality), **hashing** to verify data integrity, and **server redundancy** to ensure availability.
 
 ---
+
+## 🔐 **2. Security Principles in Practice**
+
+Beyond the **CIA Triad**, several essential security principles ensure strong cybersecurity defenses:
