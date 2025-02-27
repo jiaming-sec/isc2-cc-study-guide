@@ -33,3 +33,9 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 - 🔹 Use **firewalls, IDS/IPS, endpoint protection, and encryption** together
 - 🔹 Employ **multi-layer authentication** (e.g., MFA + biometrics)
 - 🔹 Combine **network segmentation and intrusion monitoring**
+
+### ✅ **Zero Trust Model**
+> **Never trust, always verify.**
+- 🔹 Authenticate **every request, user, and device**
+- 🔹 Implement **continuous monitoring** (e.g., SIEM, UEBA)
+- 🔹 Enforce **micro-segmentation** to limit lateral movement
