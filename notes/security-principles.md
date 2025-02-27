@@ -4,3 +4,12 @@ Security principles serve as the foundation of **cybersecurity**, ensuring the *
 
 ---
 
+## 📌 **1. The CIA Triad (Confidentiality, Integrity, Availability)**
+
+The **CIA Triad** represents the core objectives of cybersecurity:
+
+| Principle        | Description | Examples |
+|-----------------|------------|----------|
+| **Confidentiality** | Ensuring that sensitive information is accessed only by authorized individuals. | **Encryption** (AES, TLS), **Access Control Lists (ACLs)**, **Multi-Factor Authentication (MFA)** |
+| **Integrity** | Maintaining accuracy and trustworthiness of data, preventing unauthorized modification. | **Digital Signatures**, **Hashing (SHA-256, MD5)**, **File Integrity Monitoring (FIM)** |
+| **Availability** | Ensuring that resources remain accessible to authorized users when needed. | **Load Balancing**, **Redundant Servers**, **Disaster Recovery (DR) Plans** |
