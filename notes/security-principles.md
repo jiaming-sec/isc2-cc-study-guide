@@ -74,3 +74,14 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 > **Example:** A company uses **SOC monitoring** and **incident response** playbooks to detect and react to security threats in real time.
 
 ---
+
+## 🎯 **4. Common Cyber Threats & Countermeasures**
+
+| Threat | Description | Mitigation |
+|--------|------------|------------|
+| **Phishing** | Deceptive emails trick users into revealing credentials. | **User training**, **email filtering**, **anti-phishing tools** |
+| **Malware (Ransomware, Trojans)** | Malicious software executes unauthorized actions. | **Antivirus solutions**, **sandboxing**, **application whitelisting** |
+| **DDoS Attacks** | Flooding a system with traffic to cause service disruptions. | **Rate limiting**, **CDN protection**, **traffic filtering** |
+| **Insider Threats** | Employees with privileged access pose security risks. | **Behavioral analytics**, **strict access controls**, **zero-trust policies** |
+
+---
