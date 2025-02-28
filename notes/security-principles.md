@@ -96,3 +96,12 @@ To apply security principles effectively, try these hands-on labs:
 | **SIEM & Log Analysis** | Analyze logs using **Splunk** or **Elastic Stack**. | [Blue Team Labs](https://blueteamlabs.online/) |
 
 ---
+
+## 📌 **Final Exam Tips**
+✅ **Understand the CIA Triad** – Know how to apply **Confidentiality, Integrity, and Availability** in real-world scenarios.  
+✅ **Master Security Controls** – Learn about **firewalls, IDS/IPS, encryption, access controls, and endpoint protection**.  
+✅ **Apply a Risk-Based Approach** – Identify and **prioritize vulnerabilities** based on impact and likelihood.  
+✅ **Stay Updated** – Follow cybersecurity news, emerging threats, and compliance regulations (NIST, ISO 27001).  
+✅ **Practice Hands-On** – Set up **virtual labs** and test security tools (e.g., Wireshark, Metasploit, OpenVAS).  
+
+---
