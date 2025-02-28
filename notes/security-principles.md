@@ -44,3 +44,9 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 > **Splitting tasks among multiple individuals to prevent fraud and abuse.**
 - 🔹 No single user should have full control over a critical process
 - 🔹 Example: One employee **initiates** a financial transaction, another **approves** it
+
+### ✅ **Security by Design**
+> **Security should be integrated from the beginning, not added later.**
+- 🔹 Secure software development lifecycle (**SDLC**) practices
+- 🔹 Implement **code reviews and penetration testing** in development
+- 🔹 Apply **secure defaults** in system configurations
