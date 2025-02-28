@@ -56,3 +56,21 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 - 🔹 Conduct **regular vulnerability assessments**
 - 🔹 Use **risk matrices** to prioritize security measures
 - 🔹 Implement **incident response plans** for potential breaches
+
+
+---
+
+## 🛠️ **3. Security Measures and Best Practices**
+
+| Concept | Security Measures |
+|---------|------------------|
+| **Data Protection** | Use **AES encryption**, enforce **DLP policies**, enable **data masking** |
+| **Network Security** | Apply **firewalls**, **VPNs**, enable **IDS/IPS**, and secure Wi-Fi with WPA3 |
+| **Endpoint Protection** | Deploy **EDR solutions** (e.g., CrowdStrike, SentinelOne) and enforce patching |
+| **Authentication & Access** | Use **Multi-Factor Authentication (MFA)** and **Identity & Access Management (IAM)** tools |
+| **Monitoring & Logging** | Implement **SIEM solutions** (e.g., Splunk, ELK Stack) for real-time threat detection |
+| **Incident Response** | Establish **Incident Response Teams (IRT)** and conduct **tabletop exercises** |
+
+> **Example:** A company uses **SOC monitoring** and **incident response** playbooks to detect and react to security threats in real time.
+
+---
