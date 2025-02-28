@@ -50,3 +50,9 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 - 🔹 Secure software development lifecycle (**SDLC**) practices
 - 🔹 Implement **code reviews and penetration testing** in development
 - 🔹 Apply **secure defaults** in system configurations
+
+### ✅ **Risk Management**
+> **Identify, assess, and mitigate security risks.**
+- 🔹 Conduct **regular vulnerability assessments**
+- 🔹 Use **risk matrices** to prioritize security measures
+- 🔹 Implement **incident response plans** for potential breaches
