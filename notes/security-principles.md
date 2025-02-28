@@ -85,3 +85,14 @@ Beyond the **CIA Triad**, several essential security principles ensure strong cy
 | **Insider Threats** | Employees with privileged access pose security risks. | **Behavioral analytics**, **strict access controls**, **zero-trust policies** |
 
 ---
+
+## 🚀 **5. Practical Exercises & Hands-on Labs**
+To apply security principles effectively, try these hands-on labs:
+
+| Lab | Description | Link |
+|-----|------------|------|
+| **Encryption & Hashing** | Encrypt/decrypt data using **AES** and hash passwords using **SHA-256**. | [TryHackMe Crypto](https://tryhackme.com/) |
+| **Access Control & Privilege Escalation** | Learn about **RBAC** and test privilege escalation attacks. | [Hack The Box](https://www.hackthebox.com/) |
+| **SIEM & Log Analysis** | Analyze logs using **Splunk** or **Elastic Stack**. | [Blue Team Labs](https://blueteamlabs.online/) |
+
+---
