@@ -8,3 +8,7 @@ Access control is a fundamental security mechanism used to regulate who or what 
 
 ### 🔹 **1.1 The Principle of Least Privilege (PoLP)**
 > Users should be granted the **minimum level of access** necessary to perform their job functions.
+
+✅ Apply **Role-Based Access Control (RBAC)** to restrict user permissions.  
+✅ Implement **Just-In-Time (JIT) access** to limit prolonged high-privilege use.  
+✅ Regularly **review and audit user permissions** to prevent privilege creep.
