@@ -90,3 +90,15 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ **Regularly Review & Audit** access permissions for inactive accounts.  
 
 ---
+
+## 🔍 **5. Common Access Control Threats & Mitigations**
+
+| Threat | Description | Mitigation Strategies |
+|--------|------------|----------------------|
+| **Privilege Escalation** | Attackers gain unauthorized higher-level privileges. | Implement PoLP, Patch vulnerabilities, Use EDR solutions. |
+| **Brute Force Attacks** | Repeated login attempts to guess passwords. | Enforce strong passwords, Use MFA, Implement rate-limiting. |
+| **Insider Threats** | Employees misuse their access for malicious intent. | Conduct background checks, Enable session monitoring. |
+| **Session Hijacking** | Attackers steal user sessions to gain access. | Use HTTPS, Implement session timeouts, Deploy anti-replay mechanisms. |
+| **Phishing & Social Engineering** | Attackers trick users into revealing credentials. | Train employees, Use email filtering, Enable security awareness programs. |
+
+---
