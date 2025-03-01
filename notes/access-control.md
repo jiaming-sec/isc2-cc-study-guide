@@ -42,3 +42,9 @@ Access control is a fundamental security mechanism used to regulate who or what 
 
 ✅ Users cannot change permissions; enforced by administrators.  
 ✅ **Example:** Security labels like **Top Secret, Confidential, Public**.
+
+### 🔹 **2.3 Role-Based Access Control (RBAC)**
+> Access is assigned based on **job roles and responsibilities**.
+
+✅ Used in enterprises to enforce **consistent permission structures**.  
+✅ **Example:** HR employees have access to payroll data, but not IT configurations.
