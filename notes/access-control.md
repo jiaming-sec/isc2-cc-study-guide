@@ -1,12 +1,5 @@
-## **Access Controls Concepts**
-### **1. Types of Access Control**
-- **Mandatory Access Control (MAC)** – Predefined security labels.
-- **Discretionary Access Control (DAC)** – Owner determines access.
-- **Role-Based Access Control (RBAC)** – Based on roles within an organization.
-- **Rule-Based Access Control** – Uses predefined rules to grant access.
-  
-### **2. Multi-Factor Authentication (MFA)**
-- Something You Know (Password, PIN)
-- Something You Have (Smart Card, Token)
-- Something You Are (Biometric)
-- Something You Do (Behavioral Patterns)
+# 🔐 **Access Control: Principles, Models & Best Practices**
+
+Access control is a fundamental security mechanism used to regulate who or what can view, modify, or interact with digital resources. It ensures that only authorized individuals have access to specific data and systems, helping to prevent unauthorized actions and security breaches.
+
+---
