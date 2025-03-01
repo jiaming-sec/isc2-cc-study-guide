@@ -3,6 +3,7 @@
 Business Continuity and Disaster Recovery (BCDR) and Incident Response (IR) are essential components of an organization's cybersecurity strategy. They ensure operational resilience, data integrity, and prompt response to security incidents.
 
 ---
+
 ## 📌 **1. Business Continuity Planning (BCP)**
 
 **Business Continuity Planning (BCP)** focuses on keeping critical business operations running during and after a disruptive event.
@@ -15,5 +16,20 @@ Business Continuity and Disaster Recovery (BCDR) and Incident Response (IR) are 
 - **Training & Testing** – Conduct regular drills, tabletop exercises, and employee awareness programs.
 
 > **Example:** A financial institution implements a secondary data center with real-time replication to ensure business continuity in case of a primary site failure.
+
+---
+
+## 🔥 **2. Disaster Recovery (DR) Planning**
+
+**Disaster Recovery (DR)** focuses on restoring IT infrastructure and systems after a disruptive event.
+
+### 🔹 **Disaster Recovery Strategies:**
+- **Data Backup & Recovery** – Regular backups (onsite, offsite, cloud-based) with automated recovery mechanisms.
+- **Redundant Systems** – Use mirrored servers, failover clusters, and geographic dispersion.
+- **Recovery Time Objective (RTO) & Recovery Point Objective (RPO)** – Define acceptable downtime and data loss.
+- **Incident Logging & Reporting** – Maintain records of incidents for forensic investigation.
+- **Testing & Simulation** – Periodically test recovery processes to validate effectiveness.
+
+> **Example:** An e-commerce platform has a DR plan with **RTO = 2 hours** and **RPO = 15 minutes**, ensuring quick recovery with minimal data loss.
 
 ---
