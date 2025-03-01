@@ -72,3 +72,11 @@ Access control is a fundamental security mechanism used to regulate who or what 
 | **Possession-Based (Something You Have)** | Physical or digital proof | Smart cards, Security Tokens |
 | **Inherence-Based (Something You Are)** | Biometric identity | Fingerprint, Face ID |
 | **Location-Based** | Access limited to specific locations | Geo-fencing, IP restrictions |
+
+### 🔹 **3.2 Multi-Factor Authentication (MFA)**
+> Combining two or more authentication factors enhances security.
+
+✅ Example: **ATM transactions** require a card (possession) and a PIN (knowledge).  
+✅ Modern MFA solutions include **One-Time Passwords (OTP), U2F security keys, and biometric authentication**.
+
+---
