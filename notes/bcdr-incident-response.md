@@ -52,3 +52,13 @@ Business Continuity and Disaster Recovery (BCDR) and Incident Response (IR) are 
 > **Example:** A SOC team detects unusual network activity through **SIEM alerts** and follows an IR playbook to contain and mitigate the incident.
 
 ---
+
+## 🔍 **4. Best Practices for BCDR & Incident Response**
+
+✅ **Regularly update BCP & DR plans** to reflect new threats and business needs.  
+✅ **Use automation tools** (SOAR, SIEM, EDR) to accelerate incident detection and response.  
+✅ **Perform routine penetration testing** to assess resilience against cyber threats.  
+✅ **Collaborate with third-party security providers** for additional expertise.  
+✅ **Ensure compliance** with industry regulations (ISO 22301, NIST 800-61, CIS Controls).  
+
+---
