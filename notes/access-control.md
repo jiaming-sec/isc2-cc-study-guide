@@ -62,3 +62,13 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ **Example:** Only IT admins can access the network from outside the office.
 
 ---
+
+## 🔑 **3. Authentication & Authorization Mechanisms**
+
+### 🔹 **3.1 Authentication Methods**
+| Method | Description | Examples |
+|--------|------------|----------|
+| **Knowledge-Based (Something You Know)** | User provides a secret | Passwords, PINs |
+| **Possession-Based (Something You Have)** | Physical or digital proof | Smart cards, Security Tokens |
+| **Inherence-Based (Something You Are)** | Biometric identity | Fingerprint, Face ID |
+| **Location-Based** | Access limited to specific locations | Geo-fencing, IP restrictions |
