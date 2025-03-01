@@ -80,3 +80,13 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ Modern MFA solutions include **One-Time Passwords (OTP), U2F security keys, and biometric authentication**.
 
 ---
+
+## 🚀 **4. Access Control Best Practices**
+
+✅ **Enable MFA** across all critical applications.  
+✅ **Use a Zero Trust Model** to verify all access requests dynamically.  
+✅ **Monitor & Log Access** events for anomaly detection (SIEM solutions).  
+✅ **Apply the Principle of Least Privilege** to minimize risk exposure.  
+✅ **Regularly Review & Audit** access permissions for inactive accounts.  
+
+---
