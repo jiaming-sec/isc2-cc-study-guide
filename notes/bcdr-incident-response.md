@@ -62,3 +62,11 @@ Business Continuity and Disaster Recovery (BCDR) and Incident Response (IR) are 
 ✅ **Ensure compliance** with industry regulations (ISO 22301, NIST 800-61, CIS Controls).  
 
 ---
+
+## 🔗 **Additional Resources**
+- [NIST 800-34: Contingency Planning Guide](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
+- [ISO 22301: Business Continuity Management](https://www.iso.org/standard/75106.html)
+- [SANS Incident Response Framework](https://www.sans.org/white-papers/incident-response/)
+- [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
+
+---
