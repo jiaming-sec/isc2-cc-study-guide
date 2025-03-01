@@ -48,3 +48,9 @@ Access control is a fundamental security mechanism used to regulate who or what 
 
 ✅ Used in enterprises to enforce **consistent permission structures**.  
 ✅ **Example:** HR employees have access to payroll data, but not IT configurations.
+
+### 🔹 **2.4 Attribute-Based Access Control (ABAC)**
+> Access is determined based on **user attributes, context, and policies**.
+
+✅ Highly flexible and scalable for **cloud security**.  
+✅ **Example:** Allow access to documents **only during business hours** from company-approved devices.
