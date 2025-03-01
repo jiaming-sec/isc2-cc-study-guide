@@ -33,3 +33,22 @@ Business Continuity and Disaster Recovery (BCDR) and Incident Response (IR) are 
 > **Example:** An e-commerce platform has a DR plan with **RTO = 2 hours** and **RPO = 15 minutes**, ensuring quick recovery with minimal data loss.
 
 ---
+
+## 🚨 **3. Incident Response (IR) Framework**
+
+**Incident Response (IR)** is a structured approach for detecting, containing, and mitigating cybersecurity incidents.
+
+### 🔹 **Incident Response Lifecycle (NIST SP 800-61)**
+
+| Phase | Description |
+|--------|-------------|
+| **1. Preparation** | Establish incident response policies, tools, and team training. |
+| **2. Detection & Analysis** | Identify security incidents via monitoring (SIEM, IDS/IPS). |
+| **3. Containment** | Limit the impact by isolating affected systems. |
+| **4. Eradication** | Remove malware, patch vulnerabilities, and strengthen defenses. |
+| **5. Recovery** | Restore affected systems and verify normal operations. |
+| **6. Lessons Learned** | Conduct post-incident reviews and update response plans. |
+
+> **Example:** A SOC team detects unusual network activity through **SIEM alerts** and follows an IR playbook to contain and mitigate the incident.
+
+---
