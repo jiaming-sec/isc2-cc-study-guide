@@ -36,3 +36,9 @@ Access control is a fundamental security mechanism used to regulate who or what 
 
 ✅ Flexible but **high risk** due to user-controlled permissions.  
 ✅ Common in **Windows NTFS and UNIX file systems**.
+
+### 🔹 **2.2 Mandatory Access Control (MAC)**
+> Access is enforced by strict policies, often used in **government and military** environments.
+
+✅ Users cannot change permissions; enforced by administrators.  
+✅ **Example:** Security labels like **Top Secret, Confidential, Public**.
