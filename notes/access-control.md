@@ -54,3 +54,11 @@ Access control is a fundamental security mechanism used to regulate who or what 
 
 ✅ Highly flexible and scalable for **cloud security**.  
 ✅ **Example:** Allow access to documents **only during business hours** from company-approved devices.
+
+### 🔹 **2.5 Rule-Based Access Control**
+> Permissions are granted based on **defined rules and conditions**.
+
+✅ Often used in **firewall and network access policies**.  
+✅ **Example:** Only IT admins can access the network from outside the office.
+
+---
