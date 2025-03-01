@@ -28,3 +28,11 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ Monitor **logins and access events** to detect anomalies.
 
 ---
+
+## 🔄 **2. Access Control Models**
+
+### 🔹 **2.1 Discretionary Access Control (DAC)**
+> Owners of the resource determine access rights.
+
+✅ Flexible but **high risk** due to user-controlled permissions.  
+✅ Common in **Windows NTFS and UNIX file systems**.
