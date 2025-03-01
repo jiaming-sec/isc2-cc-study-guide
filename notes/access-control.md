@@ -19,3 +19,12 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ Ensure that **no single user** has full control over a sensitive operation.  
 ✅ Require **dual approval processes** for high-risk activities (e.g., financial transactions, account modifications).  
 ✅ Implement **multi-user authorization** for privileged actions.
+
+### 🔹 **1.3 Defense in Depth**
+> Multiple layers of security controls help protect access at various levels.
+
+✅ Combine **physical, administrative, and technical controls** for stronger security.  
+✅ Use **multi-factor authentication (MFA)** as an added layer of identity verification.  
+✅ Monitor **logins and access events** to detect anomalies.
+
+---
