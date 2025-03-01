@@ -12,3 +12,10 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ Apply **Role-Based Access Control (RBAC)** to restrict user permissions.  
 ✅ Implement **Just-In-Time (JIT) access** to limit prolonged high-privilege use.  
 ✅ Regularly **review and audit user permissions** to prevent privilege creep.
+
+### 🔹 **1.2 Separation of Duties (SoD)**
+> Dividing critical tasks among multiple individuals reduces the risk of fraud or insider threats.
+
+✅ Ensure that **no single user** has full control over a sensitive operation.  
+✅ Require **dual approval processes** for high-risk activities (e.g., financial transactions, account modifications).  
+✅ Implement **multi-user authorization** for privileged actions.
