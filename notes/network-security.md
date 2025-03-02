@@ -71,3 +71,14 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Implement **Network Access Control (NAC)** to enforce device security policies.
 
 ---
+
+## 🛠️ **4. Hands-on Labs & Practical Exercises**
+
+| Lab | Description | Link |
+|-----|------------|------|
+| **Firewall Configuration** | Learn how to set up and optimize firewall rules. | [TryHackMe - Network Security](https://tryhackme.com/) |
+| **Packet Analysis with Wireshark** | Analyze network traffic to detect anomalies. | [Wireshark Labs](https://www.wireshark.org/) |
+| **Penetration Testing for Networks** | Simulate network attacks using Kali Linux tools. | [Hack The Box](https://www.hackthebox.com/) |
+| **SIEM & Log Analysis** | Monitor and analyze security events for incident response. | [Blue Team Labs](https://blueteamlabs.online/) |
+
+---
