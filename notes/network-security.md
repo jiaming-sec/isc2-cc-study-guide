@@ -45,3 +45,13 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 
 ### 🔹 **3.1 Firewalls & Intrusion Prevention Systems (IPS)**
 > Firewalls act as the first line of defense, filtering malicious traffic.
+>
+> ✅ Deploy **Next-Generation Firewalls (NGFWs)** for deep packet inspection.  
+✅ Use **Intrusion Detection & Prevention Systems (IDS/IPS)** to identify and block threats.
+
+### 🔹 **3.2 Secure Network Architectures**
+> A well-designed network minimizes vulnerabilities and attack vectors.
+
+✅ Implement **VLANs** to segment network traffic.  
+✅ Enforce **IP whitelisting** to restrict network access.  
+✅ Use **VPNs** for encrypted remote access.
