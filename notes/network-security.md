@@ -55,3 +55,10 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Implement **VLANs** to segment network traffic.  
 ✅ Enforce **IP whitelisting** to restrict network access.  
 ✅ Use **VPNs** for encrypted remote access.
+
+### 🔹 **3.3 Endpoint Security & Network Monitoring**
+> Protecting individual devices is crucial to overall network security.
+
+✅ Deploy **Endpoint Detection & Response (EDR)** solutions.  
+✅ Use **SIEM (Security Information & Event Management)** for real-time threat monitoring.  
+✅ Enable **DNS filtering** to block access to malicious websites.
