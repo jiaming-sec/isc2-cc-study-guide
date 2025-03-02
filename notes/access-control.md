@@ -102,3 +102,13 @@ Access control is a fundamental security mechanism used to regulate who or what 
 | **Phishing & Social Engineering** | Attackers trick users into revealing credentials. | Train employees, Use email filtering, Enable security awareness programs. |
 
 ---
+
+## 🛠️ **6. Hands-on Labs & Practical Exercises**
+
+| Lab | Description | Link |
+|-----|------------|------|
+| **Access Control Policies** | Create and test RBAC and ABAC policies. | [TryHackMe - Access Control](https://tryhackme.com/) |
+| **Privilege Escalation Prevention** | Learn to identify and mitigate privilege escalation vulnerabilities. | [Hack The Box](https://www.hackthebox.com/) |
+| **SIEM & Log Analysis** | Monitor and detect access-related security events. | [Blue Team Labs](https://blueteamlabs.online/) |
+
+---
