@@ -19,3 +19,12 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Authenticate every user, device, and session request before granting access.  
 ✅ Continuously monitor user behavior and enforce **least privilege access**.  
 ✅ Utilize **micro-segmentation** to prevent lateral movement within the network.
+
+### 🔹 **1.3 Network Security Policies & Compliance**
+> Establishing security policies helps enforce best practices and compliance.
+
+✅ Follow security frameworks like **NIST 800-53, ISO 27001, CIS Controls**.  
+✅ Implement **security awareness training** to educate users on phishing and social engineering attacks.  
+✅ Regularly audit networks to ensure compliance with **GDPR, HIPAA, PCI-DSS**.
+
+---
