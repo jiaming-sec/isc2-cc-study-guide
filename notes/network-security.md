@@ -102,3 +102,11 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ **Practice hands-on labs** to reinforce theoretical knowledge.  
 
 ---
+
+## 🔗 **7. Additional Resources**
+- 📄 **[NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)**
+- 🔐 **[OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)**
+- 🎥 **[SANS Network Security Course](https://www.sans.org/cyber-security-courses/)**
+- 🛡️ **[Cisco Cybersecurity Learning Path](https://learningnetwork.cisco.com/)**
+
+---
