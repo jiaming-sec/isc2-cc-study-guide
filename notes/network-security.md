@@ -82,3 +82,13 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 | **SIEM & Log Analysis** | Monitor and analyze security events for incident response. | [Blue Team Labs](https://blueteamlabs.online/) |
 
 ---
+
+## 🎯 **5. Best Practices for Network Security**
+
+✅ **Use strong encryption** for sensitive communications and data storage.  
+✅ **Regularly update firmware & patches** to fix security vulnerabilities.  
+✅ **Monitor network traffic** to detect anomalies and potential threats.  
+✅ **Restrict access with role-based policies** and enforce MFA.  
+✅ **Perform penetration testing** to assess security weaknesses.  
+
+---
