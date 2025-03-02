@@ -92,3 +92,13 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ **Perform penetration testing** to assess security weaknesses.  
 
 ---
+
+## 📌 **6. Final Exam Tips**
+
+✅ **Understand key network security concepts** (firewalls, VPNs, IDS/IPS, SIEM).  
+✅ **Know how to prevent common threats** (DDoS, MITM, phishing, insider threats).  
+✅ **Be familiar with security tools** (Wireshark, Snort, Palo Alto, Cisco ASA).  
+✅ **Learn compliance standards** (NIST, ISO 27001, PCI-DSS, GDPR).  
+✅ **Practice hands-on labs** to reinforce theoretical knowledge.  
+
+---
