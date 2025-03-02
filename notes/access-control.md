@@ -122,3 +122,11 @@ Access control is a fundamental security mechanism used to regulate who or what 
 ✅ **Stay updated** with new IAM technologies and compliance standards (NIST, ISO 27001, SOC 2).  
 
 ---
+
+## 🔗 **8. Additional Resources**
+- 📄 **[NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)**
+- 🔐 **[OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)**
+- 🎥 **[SANS Identity & Access Management Course](https://www.sans.org/)**
+- 🛡️ **[Zero Trust Security Model Explained](https://www.microsoft.com/security/blog/)**
+
+---
