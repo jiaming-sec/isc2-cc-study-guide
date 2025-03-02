@@ -28,3 +28,15 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Regularly audit networks to ensure compliance with **GDPR, HIPAA, PCI-DSS**.
 
 ---
+
+## 🚨 **2. Common Network Security Threats**
+
+| Threat | Description | Mitigation Strategies |
+|--------|------------|----------------------|
+| **Denial of Service (DoS/DDoS)** | Overloading a network to disrupt service. | Deploy **DDoS mitigation tools**, use **rate-limiting**, implement **traffic filtering**. |
+| **Man-in-the-Middle (MITM) Attacks** | Intercepting and altering communications. | Use **end-to-end encryption (TLS/SSL)**, enable **network monitoring**. |
+| **Rogue Access Points** | Unauthorized wireless devices posing as legitimate networks. | Implement **WPA3 security**, use **MAC filtering**, conduct **wireless audits**. |
+| **Phishing & Social Engineering** | Tricking users into revealing credentials. | Train employees on **phishing awareness**, enable **email security tools**. |
+| **SQL Injection & Exploits** | Injecting malicious queries to manipulate databases. | Use **input validation**, enable **web application firewalls (WAFs)**. |
+
+---
