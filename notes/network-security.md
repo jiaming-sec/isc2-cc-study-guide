@@ -12,3 +12,10 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Use **firewalls, intrusion detection systems (IDS), endpoint protection, and access control**.  
 ✅ Ensure **network segmentation** to isolate sensitive data and systems.  
 ✅ Deploy **multi-factor authentication (MFA)** for enhanced access control.
+
+### 🔹 **1.2 Zero Trust Architecture (ZTA)**
+> "Never trust, always verify."
+
+✅ Authenticate every user, device, and session request before granting access.  
+✅ Continuously monitor user behavior and enforce **least privilege access**.  
+✅ Utilize **micro-segmentation** to prevent lateral movement within the network.
