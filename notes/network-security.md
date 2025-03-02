@@ -40,3 +40,8 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 | **SQL Injection & Exploits** | Injecting malicious queries to manipulate databases. | Use **input validation**, enable **web application firewalls (WAFs)**. |
 
 ---
+
+## 🔥 **3. Essential Network Security Measures**
+
+### 🔹 **3.1 Firewalls & Intrusion Prevention Systems (IPS)**
+> Firewalls act as the first line of defense, filtering malicious traffic.
