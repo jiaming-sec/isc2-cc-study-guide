@@ -62,3 +62,12 @@ Network security is a critical aspect of cybersecurity, focusing on protecting d
 ✅ Deploy **Endpoint Detection & Response (EDR)** solutions.  
 ✅ Use **SIEM (Security Information & Event Management)** for real-time threat monitoring.  
 ✅ Enable **DNS filtering** to block access to malicious websites.
+
+### 🔹 **3.4 Wireless Security**
+> Securing wireless networks prevents unauthorized access and attacks.
+
+✅ Use **WPA3 encryption** for stronger authentication.  
+✅ Disable **SSID broadcasting** to hide network presence.  
+✅ Implement **Network Access Control (NAC)** to enforce device security policies.
+
+---
