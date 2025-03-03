@@ -57,3 +57,10 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 ✅ **Collect logs** from firewalls, IDS/IPS, endpoint security, and authentication servers.  
 ✅ Use **correlation rules** to detect abnormal behavior patterns.  
 ✅ Implement **real-time alerting** for incident detection.
+
+### 🔹 **3.2 Endpoint Detection & Response (EDR)**
+> EDR solutions enhance security by continuously monitoring endpoint activities and responding to threats.
+
+✅ Deploy **CrowdStrike, SentinelOne, Microsoft Defender for Endpoint** for advanced threat detection.  
+✅ Enable **automated remediation** to contain and neutralize endpoint attacks.  
+✅ Conduct **forensic analysis** to investigate root causes.
