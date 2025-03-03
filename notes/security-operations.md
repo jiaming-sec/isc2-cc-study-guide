@@ -73,3 +73,14 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 ✅ Implement **anomaly-based detection** to flag unusual traffic patterns.
 
 ---
+
+## 🛠️ **4. Hands-on Labs & Practical Exercises**
+
+| Lab | Description | Link |
+|-----|------------|------|
+| **SIEM Log Analysis** | Detect security incidents using Splunk/ELK. | [TryHackMe - SOC Labs](https://tryhackme.com/) |
+| **Threat Hunting with MITRE ATT&CK** | Use behavioral analytics to hunt adversaries. | [MITRE ATT&CK Labs](https://attack.mitre.org/) |
+| **Incident Response Simulation** | Learn how to manage a security breach. | [Blue Team Labs](https://blueteamlabs.online/) |
+| **Packet Analysis with Wireshark** | Analyze real-world attack traffic. | [Wireshark Labs](https://www.wireshark.org/) |
+
+---
