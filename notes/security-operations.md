@@ -104,3 +104,11 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 ✅ **Review compliance frameworks** (NIST 800-61, ISO 27035, CIS Controls).  
 
 ---
+
+## 🔗 **7. Additional Resources**
+- 📄 **[NIST 800-61: Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)**
+- 🔥 **[CISA - Cyber Threat Intelligence](https://www.cisa.gov/cyber-threat-intelligence)**
+- 🎥 **[SANS Incident Response Course](https://www.sans.org/cyber-security-courses/)**
+- 🛡️ **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
+
+---
