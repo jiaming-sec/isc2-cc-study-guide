@@ -37,3 +37,14 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 
 ---
 
+## 🚨 **2. Common Security Threats & Countermeasures**
+
+| Threat | Description | Mitigation Strategies |
+|--------|------------|----------------------|
+| **Phishing Attacks** | Fraudulent emails trick users into revealing credentials. | Implement **email filtering**, conduct **user awareness training**. |
+| **Ransomware** | Malware encrypts files and demands payment. | Use **backup strategies**, deploy **EDR solutions**, apply **network segmentation**. |
+| **Insider Threats** | Malicious activity from employees or contractors. | Enforce **least privilege access**, use **User Behavior Analytics (UBA)**. |
+| **DDoS Attacks** | Flooding a network to disrupt service availability. | Deploy **traffic filtering**, use **CDN-based protection**, configure **rate-limiting**. |
+| **Advanced Persistent Threats (APTs)** | Long-term, stealthy cyber intrusions. | Implement **Zero Trust security**, utilize **behavioral anomaly detection**. |
+
+---
