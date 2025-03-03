@@ -94,3 +94,13 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 ✅ **Stay updated on emerging threats** – Monitor cybersecurity advisories and vulnerability disclosures.
 
 ---
+
+## 📌 **6. Final Exam Tips**
+
+✅ **Understand SOC operations & incident response** lifecycle.  
+✅ **Know security monitoring tools** (SIEM, EDR, NTA) and their use cases.  
+✅ **Familiarize with threat intelligence frameworks** (MITRE ATT&CK, IOC, TTPs).  
+✅ **Practice hands-on labs** to strengthen threat detection skills.  
+✅ **Review compliance frameworks** (NIST 800-61, ISO 27035, CIS Controls).  
+
+---
