@@ -27,3 +27,13 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 
 ✅ Use **MITRE ATT&CK Framework** to analyze adversary tactics and techniques.  
 ✅ Leverage **SOAR (Security Orchestration, Automation, and Response)** for automated threat handling.
+
+### 🔹 **1.3 Threat Intelligence & Hunting**
+> **Proactive threat intelligence gathering** helps in identifying and preventing cyber threats before they escalate.
+
+✅ Monitor **Threat Intelligence Feeds** (AlienVault OTX, IBM X-Force, FireEye).  
+✅ Conduct **Threat Hunting** using **YARA rules**, behavioral analytics, and **endpoint detection** tools.  
+✅ Implement **IOC (Indicators of Compromise) and TTP (Tactics, Techniques, and Procedures)** analysis.
+
+---
+
