@@ -48,3 +48,12 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 | **Advanced Persistent Threats (APTs)** | Long-term, stealthy cyber intrusions. | Implement **Zero Trust security**, utilize **behavioral anomaly detection**. |
 
 ---
+
+## 🔑 **3. Security Monitoring & Logging**
+
+### 🔹 **3.1 SIEM & Log Analysis**
+> **Security Information & Event Management (SIEM)** solutions collect and analyze security logs to detect threats.
+
+✅ **Collect logs** from firewalls, IDS/IPS, endpoint security, and authentication servers.  
+✅ Use **correlation rules** to detect abnormal behavior patterns.  
+✅ Implement **real-time alerting** for incident detection.
