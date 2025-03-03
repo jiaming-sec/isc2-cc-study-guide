@@ -64,3 +64,12 @@ Security Operations (SecOps) involves **continuous monitoring, threat detection,
 ✅ Deploy **CrowdStrike, SentinelOne, Microsoft Defender for Endpoint** for advanced threat detection.  
 ✅ Enable **automated remediation** to contain and neutralize endpoint attacks.  
 ✅ Conduct **forensic analysis** to investigate root causes.
+
+### 🔹 **3.3 Network Traffic Analysis (NTA)**
+> NTA solutions help detect **anomalous network traffic and insider threats**.
+
+✅ Use **Wireshark, Zeek (Bro), Cisco Stealthwatch** for deep packet inspection.  
+✅ Analyze **NetFlow data** to identify suspicious connections.  
+✅ Implement **anomaly-based detection** to flag unusual traffic patterns.
+
+---
