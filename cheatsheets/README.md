@@ -60,3 +60,14 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Blocklist (Blacklist)** | Denies specific traffic sources. |
 | **Stateful Inspection** | Tracks the state of active connections. |
 | **Application Layer Filtering** | Blocks traffic based on application behavior. |
+
+### 🔹 **Common Network Security Commands**
+| Command | Description |
+|---------|------------|
+| `netstat -an` | Displays network connections. |
+| `tcpdump -i eth0` | Captures network packets. |
+| `iptables -L` | Lists firewall rules in Linux. |
+| `nmap -sS target.com` | Performs a stealth SYN scan. |
+| `traceroute domain.com` | Traces the route packets take to a host. |
+
+---
