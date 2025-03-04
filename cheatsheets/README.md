@@ -50,3 +50,13 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **OpenID Connect** | Extends OAuth 2.0 for identity verification. |
 
 ---
+
+## 🌐 **4. Network Security**
+
+### 🔹 **Common Firewall Rules**
+| Rule | Description |
+|------|------------|
+| **Allowlist (Whitelist)** | Permits only specified traffic. |
+| **Blocklist (Blacklist)** | Denies specific traffic sources. |
+| **Stateful Inspection** | Tracks the state of active connections. |
+| **Application Layer Filtering** | Blocks traffic based on application behavior. |
