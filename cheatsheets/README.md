@@ -83,3 +83,10 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Eradication** | Remove malicious artifacts and fix vulnerabilities. |
 | **Recovery** | Restore services and test security postures. |
 | **Lessons Learned** | Conduct post-incident reviews and update policies. |
+
+### 🔹 **SOC (Security Operations Center) Key Logs to Monitor**
+✅ **Failed Login Attempts** – Detect brute-force attacks.  
+✅ **Unusual Traffic Patterns** – Identify potential exfiltration.  
+✅ **Privilege Escalation Events** – Alert on unauthorized access.
+
+---
