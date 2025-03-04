@@ -23,3 +23,10 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Confidentiality** | Ensures data is only accessed by authorized users. | **Encryption (AES, TLS)**, MFA |
 | **Integrity** | Protects data from unauthorized modification. | **Hashing (SHA-256), Digital Signatures** |
 | **Availability** | Ensures services remain accessible when needed. | **Load balancing, DDoS mitigation** |
+
+### 🔹 **Principle of Least Privilege (PoLP)**
+✅ Assign users only the permissions they need.  
+✅ Implement **Role-Based Access Control (RBAC)**.  
+✅ Regularly audit **user permissions** to prevent privilege creep.
+
+---
