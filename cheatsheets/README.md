@@ -30,3 +30,13 @@ This collection of **cheatsheets** provides quick references and essential infor
 ✅ Regularly audit **user permissions** to prevent privilege creep.
 
 ---
+
+## 🔐 **3. Authentication & Access Control**
+
+### 🔹 **Multi-Factor Authentication (MFA) Methods**
+| Type | Description | Example |
+|------|------------|---------|
+| **Something You Know** | A password or PIN. | Account passwords |
+| **Something You Have** | A physical device. | Security token, Smart card |
+| **Something You Are** | Biometric authentication. | Fingerprint, Face ID |
+
