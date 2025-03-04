@@ -40,3 +40,13 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Something You Have** | A physical device. | Security token, Smart card |
 | **Something You Are** | Biometric authentication. | Fingerprint, Face ID |
 
+### 🔹 **Common Authentication Protocols**
+| Protocol | Description |
+|----------|------------|
+| **LDAP** | Directory-based authentication for user access. |
+| **Kerberos** | Secure authentication using ticket-based access. |
+| **SAML** | Enables Single Sign-On (SSO) for web applications. |
+| **OAuth 2.0** | Open standard for API authentication. |
+| **OpenID Connect** | Extends OAuth 2.0 for identity verification. |
+
+---
