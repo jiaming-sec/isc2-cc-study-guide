@@ -71,3 +71,15 @@ This collection of **cheatsheets** provides quick references and essential infor
 | `traceroute domain.com` | Traces the route packets take to a host. |
 
 ---
+
+## 📜 **5. Security Operations & Incident Response**
+
+### 🔹 **Incident Response (NIST SP 800-61)**
+| Phase | Description |
+|-------|------------|
+| **Preparation** | Establish policies and playbooks. |
+| **Detection & Analysis** | Identify suspicious activity. |
+| **Containment** | Limit incident impact and isolate threats. |
+| **Eradication** | Remove malicious artifacts and fix vulnerabilities. |
+| **Recovery** | Restore services and test security postures. |
+| **Lessons Learned** | Conduct post-incident reviews and update policies. |
