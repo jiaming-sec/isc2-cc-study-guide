@@ -104,3 +104,14 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Command & Control (C2)** | Gains remote control over compromised systems. |
 | **Actions on Objectives** | Executes final goal (e.g., data exfiltration, ransomware). |
 
+### 🔹 **Common Penetration Testing Tools**
+| Tool | Purpose |
+|------|---------|
+| **Metasploit** | Exploitation framework. |
+| **Burp Suite** | Web security testing. |
+| **Wireshark** | Packet analysis. |
+| **Nmap** | Network reconnaissance. |
+| **John the Ripper** | Password cracking. |
+| **Hydra** | Brute-force password attacks. |
+
+---
