@@ -137,3 +137,11 @@ This collection of **cheatsheets** provides quick references and essential infor
 ✅ **SOC** – Security Operations Center  
 
 ---
+
+## 🔗 **8. Additional Resources**
+- 📄 **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
+- 🔐 **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**
+- 🎥 **[SANS Cybersecurity Training](https://www.sans.org/)**
+- 🛡️ **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
+
+---
