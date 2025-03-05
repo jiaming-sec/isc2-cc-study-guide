@@ -90,3 +90,17 @@ This collection of **cheatsheets** provides quick references and essential infor
 ✅ **Privilege Escalation Events** – Alert on unauthorized access.
 
 ---
+
+## 🕵️‍♂️ **6. Threat Intelligence & Ethical Hacking**
+
+### 🔹 **Cyber Kill Chain (Lockheed Martin)**
+| Phase | Description |
+|-------|------------|
+| **Reconnaissance** | Attacker gathers intel on targets. |
+| **Weaponization** | Malware or exploit development. |
+| **Delivery** | Sends payload via phishing or exploitation. |
+| **Exploitation** | Executes malicious payload. |
+| **Installation** | Installs backdoor or persistence. |
+| **Command & Control (C2)** | Gains remote control over compromised systems. |
+| **Actions on Objectives** | Executes final goal (e.g., data exfiltration, ransomware). |
+
