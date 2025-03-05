@@ -127,3 +127,13 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **PCI DSS** | Payment Card Industry security standards. |
 | **SOC 2** | Security compliance for SaaS providers. |
 | **HIPAA** | Healthcare data security standards. |
+
+### 🔹 **Key Security Acronyms**
+✅ **SIEM** – Security Information & Event Management  
+✅ **IDS/IPS** – Intrusion Detection/Prevention System  
+✅ **EDR** – Endpoint Detection & Response  
+✅ **MFA** – Multi-Factor Authentication  
+✅ **IAM** – Identity & Access Management  
+✅ **SOC** – Security Operations Center  
+
+---
