@@ -115,3 +115,15 @@ This collection of **cheatsheets** provides quick references and essential infor
 | **Hydra** | Brute-force password attacks. |
 
 ---
+
+## 📝 **7. Compliance & Security Frameworks**
+
+### 🔹 **Major Security Frameworks**
+| Framework | Description |
+|-----------|------------|
+| **NIST 800-53** | U.S. government security controls. |
+| **ISO 27001** | International information security standard. |
+| **CIS Controls** | Cybersecurity best practices. |
+| **PCI DSS** | Payment Card Industry security standards. |
+| **SOC 2** | Security compliance for SaaS providers. |
+| **HIPAA** | Healthcare data security standards. |
