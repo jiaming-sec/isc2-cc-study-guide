@@ -44,3 +44,22 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** A VPN encrypts internet traffic, ensuring secure communication over untrusted networks.  
 
 ---
+
+## 🛡️ **4. Threats & Attacks**
+
+**Q:** What is a Man-in-the-Middle (MITM) attack?  
+**A:** An attacker intercepts and potentially alters communication between two parties.  
+
+**Q:** What is Phishing?  
+**A:** A social engineering attack that tricks users into providing sensitive information.  
+
+**Q:** What is Ransomware?  
+**A:** Malware that encrypts a victim’s data and demands payment for decryption.  
+
+**Q:** What is SQL Injection?  
+**A:** An attack where malicious SQL code is injected into a database query to manipulate data.  
+
+**Q:** What is a Zero-Day Exploit?  
+**A:** An attack targeting a software vulnerability that is unknown to the vendor.  
+
+---
