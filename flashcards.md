@@ -79,3 +79,22 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** Security Orchestration, Automation, and Response; used to automate incident response processes.  
 
 ---
+
+## ⚙️ **6. Cryptography**
+
+**Q:** What is the difference between symmetric and asymmetric encryption?  
+**A:** Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a public-private key pair.  
+
+**Q:** What is AES?  
+**A:** Advanced Encryption Standard; a widely used symmetric encryption algorithm.  
+
+**Q:** What is RSA?  
+**A:** A widely used asymmetric encryption algorithm for secure data transmission.  
+
+**Q:** What is hashing?  
+**A:** A one-way cryptographic function that converts data into a fixed-length hash value.  
+
+**Q:** What is the purpose of a digital signature?  
+**A:** To verify the authenticity and integrity of a message or document using cryptographic techniques.  
+
+---
