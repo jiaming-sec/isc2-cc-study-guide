@@ -98,3 +98,19 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** To verify the authenticity and integrity of a message or document using cryptographic techniques.  
 
 ---
+
+## 🖥️ **7. Authentication & Access Control**
+
+**Q:** What are the factors of authentication?  
+**A:** 1. Something You Know (Password), 2. Something You Have (Security Token), 3. Something You Are (Biometrics).  
+
+**Q:** What is Role-Based Access Control (RBAC)?  
+**A:** A security model that restricts system access based on user roles and responsibilities.  
+
+**Q:** What is Multi-Factor Authentication (MFA)?  
+**A:** A security mechanism requiring two or more authentication factors to verify a user's identity.  
+
+**Q:** What is Single Sign-On (SSO)?  
+**A:** A method that allows users to authenticate once and gain access to multiple applications.  
+
+---
