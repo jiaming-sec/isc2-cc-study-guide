@@ -114,3 +114,22 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** A method that allows users to authenticate once and gain access to multiple applications.  
 
 ---
+
+## 📜 **8. Compliance & Security Frameworks**
+
+**Q:** What is NIST 800-53?  
+**A:** A set of cybersecurity standards for federal information systems.  
+
+**Q:** What is ISO 27001?  
+**A:** An international standard for information security management systems (ISMS).  
+
+**Q:** What is PCI DSS?  
+**A:** A set of security standards for handling credit card transactions.  
+
+**Q:** What is HIPAA?  
+**A:** A U.S. regulation that protects healthcare data.  
+
+**Q:** What is GDPR?  
+**A:** A European regulation for data protection and privacy.  
+
+---
