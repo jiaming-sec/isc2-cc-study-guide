@@ -28,3 +28,19 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** A layered security strategy that implements multiple protective measures at different levels.
 
 ---
+
+## 🌐 **3. Network Security**
+
+**Q:** What is the purpose of a firewall?  
+**A:** A firewall controls incoming and outgoing network traffic based on predefined security rules.  
+
+**Q:** What are the types of firewalls?  
+**A:** Packet filtering, Stateful inspection, Proxy-based, Next-Gen Firewall (NGFW).  
+
+**Q:** What is an Intrusion Detection System (IDS)?  
+**A:** A security tool that monitors network traffic for suspicious activity and alerts administrators.  
+
+**Q:** How does a VPN enhance network security?  
+**A:** A VPN encrypts internet traffic, ensuring secure communication over untrusted networks.  
+
+---
