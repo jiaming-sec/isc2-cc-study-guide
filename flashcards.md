@@ -63,3 +63,19 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** An attack targeting a software vulnerability that is unknown to the vendor.  
 
 ---
+
+## 📝 **5. Incident Response & Security Operations**
+
+**Q:** What are the six phases of the NIST Incident Response Lifecycle?  
+**A:** 1. Preparation, 2. Detection & Analysis, 3. Containment, 4. Eradication, 5. Recovery, 6. Lessons Learned.  
+
+**Q:** What is SIEM?  
+**A:** Security Information and Event Management; a tool used to aggregate and analyze security logs.  
+
+**Q:** What are Indicators of Compromise (IoCs)?  
+**A:** Evidence that a system or network has been breached, such as unusual outbound traffic or login anomalies.  
+
+**Q:** What is SOAR?  
+**A:** Security Orchestration, Automation, and Response; used to automate incident response processes.  
+
+---
