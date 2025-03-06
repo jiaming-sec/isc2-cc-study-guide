@@ -133,3 +133,12 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **A:** A European regulation for data protection and privacy.  
 
 ---
+
+## 🎯 **9. Additional Resources**
+
+- 📄 **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
+- 🔐 **[OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)**
+- 🎥 **[SANS Cybersecurity Training](https://www.sans.org/)**
+- 🛡️ **[MITRE ATT&CK Framework](https://attack.mitre.org/)**
+
+---
