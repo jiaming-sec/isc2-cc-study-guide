@@ -27,6 +27,10 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is Defense in Depth?  
 **A:** A layered security strategy that implements multiple protective measures at different levels.
 
+**Q:** What is Zero Trust Security?  
+**A:** A security model that requires strict verification for every user and device trying to access resources.
+
+
 ---
 
 ## 🌐 **3. Network Security**
