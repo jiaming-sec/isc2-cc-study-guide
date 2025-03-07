@@ -167,7 +167,20 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is Metasploit?  
 **A:** A penetration testing framework used for discovering and exploiting vulnerabilities. 
 
-## 🎯 **9. Additional Resources**
+---
+
+## 🔍 **10. Digital Forensics**
+
+**Q:** What is Chain of Custody in digital forensics?  
+**A:** The process of documenting the handling of digital evidence from collection to presentation.  
+
+**Q:** What is a forensic image?  
+**A:** An exact copy of a storage device taken for analysis without modifying the original data.  
+
+**Q:** What is Volatility used for?  
+**A:** Analyzing volatile memory (RAM) for forensic investigations.  
+
+## 🎯 **11. Additional Resources**
 
 - 📄 **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
 - 🔐 **[OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)**
