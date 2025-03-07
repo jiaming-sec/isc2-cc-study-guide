@@ -47,6 +47,10 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** How does a VPN enhance network security?  
 **A:** A VPN encrypts internet traffic, ensuring secure communication over untrusted networks.  
 
+**Q:** What is a honeypot?  
+**A:** A decoy system used to lure attackers and analyze their behavior.  
+
+
 ---
 
 ## 🛡️ **4. Threats & Attacks**
