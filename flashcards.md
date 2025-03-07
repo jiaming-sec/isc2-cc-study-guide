@@ -132,6 +132,9 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is Single Sign-On (SSO)?  
 **A:** A method that allows users to authenticate once and gain access to multiple applications.  
 
+**Q:** What is Federated Identity Management?  
+**A:** A system that allows users to authenticate across multiple organizations using shared credentials.  
+
 ---
 
 ## 📜 **8. Compliance & Security Frameworks**
