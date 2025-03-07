@@ -156,6 +156,17 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
+## 🛠️ **9. Security Tools & Commands**
+
+**Q:** What is Wireshark used for?  
+**A:** Capturing and analyzing network traffic.  
+
+**Q:** What does the `nmap -sS` command do?  
+**A:** Performs a stealth SYN scan on a target system.  
+
+**Q:** What is Metasploit?  
+**A:** A penetration testing framework used for discovering and exploiting vulnerabilities. 
+
 ## 🎯 **9. Additional Resources**
 
 - 📄 **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
