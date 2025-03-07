@@ -90,6 +90,10 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is SOAR?  
 **A:** Security Orchestration, Automation, and Response; used to automate incident response processes.  
 
+**Q:** What is a Threat Intelligence Feed?  
+**A:** A real-time data source that provides information about new cyber threats.
+
+
 ---
 
 ## ⚙️ **6. Cryptography**
