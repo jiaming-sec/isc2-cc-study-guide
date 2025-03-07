@@ -70,6 +70,10 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is a Zero-Day Exploit?  
 **A:** An attack targeting a software vulnerability that is unknown to the vendor.  
 
+**Q:** What is a Logic Bomb?  
+**A:** A malicious script that executes when certain conditions are met.  
+
+
 ---
 
 ## 📝 **5. Incident Response & Security Operations**
