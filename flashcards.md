@@ -113,6 +113,9 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is the purpose of a digital signature?  
 **A:** To verify the authenticity and integrity of a message or document using cryptographic techniques.  
 
+**Q:** What is a Rainbow Table Attack?  
+**A:** A method used to crack hashed passwords by comparing them to precomputed values. 
+
 ---
 
 ## 🖥️ **7. Authentication & Access Control**
