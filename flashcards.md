@@ -104,6 +104,19 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
+## 📡 **6. Cloud Security**
+
+**Q:** What is a Cloud Access Security Broker (CASB)?  
+**A:** A security policy enforcement tool between cloud service consumers and providers.  
+
+**Q:** What is Shared Responsibility in Cloud Security?  
+**A:** A model where the cloud provider secures the infrastructure, while the customer secures data and applications.  
+
+**Q:** What are the three types of cloud deployment models?  
+**A:** Public Cloud, Private Cloud, Hybrid Cloud.  
+
+---
+
 ## ⚙️ **6. Cryptography**
 
 **Q:** What is the difference between symmetric and asymmetric encryption?  
