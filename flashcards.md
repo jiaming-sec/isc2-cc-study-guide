@@ -77,6 +77,8 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is a Logic Bomb?  
 **A:** A malicious script that executes when certain conditions are met.  
 
+**Q:** What is an Advanced Persistent Threat (APT)?  
+**A:** A prolonged cyberattack where an adversary gains unauthorized access and remains undetected.
 
 ---
 
