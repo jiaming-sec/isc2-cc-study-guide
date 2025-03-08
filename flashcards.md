@@ -52,6 +52,8 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is a honeypot?  
 **A:** A decoy system used to lure attackers and analyze their behavior.  
 
+**Q:** What is Network Segmentation?  
+**A:** Dividing a network into smaller sections to limit attack surface and reduce risk.
 
 ---
 
