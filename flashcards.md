@@ -30,6 +30,8 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is Zero Trust Security?  
 **A:** A security model that requires strict verification for every user and device trying to access resources.
 
+**Q:** What is a Security Policy?  
+**A:** A documented set of rules and procedures designed to protect an organization's assets.
 
 ---
 
