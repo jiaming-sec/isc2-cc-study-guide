@@ -117,7 +117,20 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
-## ⚙️ **6. Cryptography**
+## 🔗 **7. Supply Chain Security**
+
+**Q:** What is Supply Chain Security?  
+**A:** Protecting hardware, software, and services from cyber threats throughout the supply chain.  
+
+**Q:** What is a Software Bill of Materials (SBOM)?  
+**A:** A list of all components and dependencies used in software to track vulnerabilities.
+
+**Q:** What is a Supply Chain Attack?  
+**A:** A cyberattack targeting vulnerabilities in third-party vendors or service providers.
+
+---
+
+## ⚙️ **8. Cryptography**
 
 **Q:** What is the difference between symmetric and asymmetric encryption?  
 **A:** Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a public-private key pair.  
@@ -139,7 +152,7 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
-## 🖥️ **7. Authentication & Access Control**
+## 🖥️ **9. Authentication & Access Control**
 
 **Q:** What are the factors of authentication?  
 **A:** 1. Something You Know (Password), 2. Something You Have (Security Token), 3. Something You Are (Biometrics).  
@@ -158,7 +171,7 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
-## 📜 **8. Compliance & Security Frameworks**
+## 📜 **10. Compliance & Security Frameworks**
 
 **Q:** What is NIST 800-53?  
 **A:** A set of cybersecurity standards for federal information systems.  
@@ -177,7 +190,7 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
-## 🛠️ **9. Security Tools & Commands**
+## 🛠️ **11. Security Tools & Commands**
 
 **Q:** What is Wireshark used for?  
 **A:** Capturing and analyzing network traffic.  
@@ -190,7 +203,7 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 
 ---
 
-## 🔍 **10. Digital Forensics**
+## 🔍 **12. Digital Forensics**
 
 **Q:** What is Chain of Custody in digital forensics?  
 **A:** The process of documenting the handling of digital evidence from collection to presentation.  
@@ -201,7 +214,7 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is Volatility used for?  
 **A:** Analyzing volatile memory (RAM) for forensic investigations.  
 
-## 🎯 **11. Additional Resources**
+## 🎯 **13. Additional Resources**
 
 - 📄 **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
 - 🔐 **[OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)**
