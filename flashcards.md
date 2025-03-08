@@ -99,6 +99,8 @@ This collection of **flashcards** provides a quick reference for key cybersecuri
 **Q:** What is a Threat Intelligence Feed?  
 **A:** A real-time data source that provides information about new cyber threats.
 
+**Q:** What is a Playbook in Incident Response?  
+**A:** A predefined plan of action to handle specific types of security incidents.
 
 ---
 
