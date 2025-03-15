@@ -9,3 +9,20 @@
 
 ### Answer:
 **B) To standardize network communication**
+
+### Explanation:
+The OSI model provides a standardized framework for network communication, ensuring interoperability between different systems and protocols.
+
+---
+
+## Question 2
+**Which of the following best describes a firewall's function?**
+
+### Options:
+- A) It encrypts data end-to-end.
+- B) It prevents unauthorized access by filtering traffic.
+- C) It monitors network performance.
+- D) It manages user authentication.
+
+### Answer:
+**B) It prevents unauthorized access by filtering traffic**
