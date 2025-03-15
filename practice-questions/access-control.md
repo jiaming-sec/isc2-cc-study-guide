@@ -46,3 +46,21 @@ Firewalls control incoming and outgoing network traffic based on predetermined s
 
 ### Explanation:
 Confidentiality ensures that sensitive data is only accessible to authorized users, preventing unauthorized disclosure.
+
+## Question 4
+**What is the main purpose of multi-factor authentication (MFA)?**
+
+### Options:
+- A) To encrypt sensitive data
+- B) To provide multiple login options
+- C) To enhance security by requiring multiple forms of verification
+- D) To enable single sign-on (SSO)
+
+### Answer:
+**C) To enhance security by requiring multiple forms of verification**
+
+### Explanation:
+MFA strengthens authentication security by requiring users to provide two or more verification factors before gaining access.
+
+---
+
