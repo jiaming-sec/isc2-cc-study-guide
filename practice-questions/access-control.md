@@ -64,3 +64,19 @@ MFA strengthens authentication security by requiring users to provide two or mor
 
 ---
 
+## Question 5
+**Which of the following is an example of a phishing attack?**
+
+### Options:
+- A) A hacker directly accessing a database
+- B) A user receiving an email that mimics a trusted source to steal credentials
+- C) A DoS attack on a network
+- D) An unauthorized software installation
+
+### Answer:
+**B) A user receiving an email that mimics a trusted source to steal credentials**
+
+### Explanation:
+Phishing attacks attempt to trick users into revealing sensitive information by posing as legitimate entities via email or other forms of communication.
+
+---
