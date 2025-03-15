@@ -26,3 +26,23 @@ The OSI model provides a standardized framework for network communication, ensur
 
 ### Answer:
 **B) It prevents unauthorized access by filtering traffic**
+
+### Explanation:
+Firewalls control incoming and outgoing network traffic based on predetermined security rules, helping to protect networks from unauthorized access.
+
+---
+
+## Question 3
+**Which cybersecurity principle ensures that data is protected from unauthorized access?**
+
+### Options:
+- A) Integrity
+- B) Confidentiality
+- C) Availability
+- D) Authentication
+
+### Answer:
+**B) Confidentiality**
+
+### Explanation:
+Confidentiality ensures that sensitive data is only accessible to authorized users, preventing unauthorized disclosure.
