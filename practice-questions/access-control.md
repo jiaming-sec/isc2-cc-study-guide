@@ -97,3 +97,20 @@ Phishing attacks attempt to trick users into revealing sensitive information by 
 An IDS is designed to detect and alert administrators to potential threats and malicious activities within a network.
 
 ---
+
+## Question 7
+**Which attack type exploits a system’s inability to handle excessive traffic?**
+
+### Options:
+- A) Phishing
+- B) Denial-of-Service (DoS)
+- C) Man-in-the-Middle (MitM)
+- D) SQL Injection
+
+### Answer:
+**B) Denial-of-Service (DoS)**
+
+### Explanation:
+A DoS attack overwhelms a system with excessive requests, making it unavailable for legitimate users.
+
+---
