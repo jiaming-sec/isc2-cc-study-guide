@@ -165,3 +165,16 @@ Account lockout policies help prevent brute-force attacks by limiting the number
 A Trojan horse appears to be a legitimate software application but performs malicious actions once installed.
 
 ---
+
+## Question 11
+**Which encryption method is considered the most secure for encrypting sensitive data?**
+
+### Options:
+- A) AES (Advanced Encryption Standard)
+- B) DES (Data Encryption Standard)
+- C) MD5
+- D) SHA-1
+
+### Answer:
+**A) AES (Advanced Encryption Standard)**
+
