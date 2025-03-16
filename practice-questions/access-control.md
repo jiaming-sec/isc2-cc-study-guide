@@ -80,3 +80,20 @@ MFA strengthens authentication security by requiring users to provide two or mor
 Phishing attacks attempt to trick users into revealing sensitive information by posing as legitimate entities via email or other forms of communication.
 
 ---
+
+## Question 6
+**What is the main goal of an intrusion detection system (IDS)?**
+
+### Options:
+- A) To prevent unauthorized access to a network
+- B) To monitor and alert on suspicious activities
+- C) To authenticate users before granting access
+- D) To encrypt data during transmission
+
+### Answer:
+**B) To monitor and alert on suspicious activities**
+
+### Explanation:
+An IDS is designed to detect and alert administrators to potential threats and malicious activities within a network.
+
+---
