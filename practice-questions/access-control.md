@@ -182,3 +182,12 @@ A Trojan horse appears to be a legitimate software application but performs mali
 AES is widely used for encrypting sensitive data due to its strong security and efficiency.
 
 ---
+
+## Question 12
+**Which of the following best describes a zero-day attack?**
+
+### Options:
+- A) An attack that occurs immediately after patching
+- B) An attack that exploits an unknown vulnerability
+- C) An attack launched from a compromised user account
+- D) An attack that targets open-source software
