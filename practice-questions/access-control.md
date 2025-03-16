@@ -114,3 +114,20 @@ An IDS is designed to detect and alert administrators to potential threats and m
 A DoS attack overwhelms a system with excessive requests, making it unavailable for legitimate users.
 
 ---
+
+## Question 8
+**What is the best way to protect sensitive data stored on a laptop?**
+
+### Options:
+- A) Use a strong password
+- B) Install antivirus software
+- C) Enable full-disk encryption
+- D) Keep the laptop powered off
+
+### Answer:
+**C) Enable full-disk encryption**
+
+### Explanation:
+Full-disk encryption ensures that data remains unreadable even if the laptop is lost or stolen, providing strong security protection.
+
+---
