@@ -148,3 +148,13 @@ Full-disk encryption ensures that data remains unreadable even if the laptop is 
 Account lockout policies help prevent brute-force attacks by limiting the number of incorrect login attempts before locking an account temporarily.
 
 ---
+
+## Question 10
+**What type of malware disguises itself as a legitimate program?**
+
+### Options:
+- A) Worm
+- B) Trojan horse
+- C) Spyware
+- D) Ransomware
+
