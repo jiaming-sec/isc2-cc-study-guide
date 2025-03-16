@@ -178,3 +178,7 @@ A Trojan horse appears to be a legitimate software application but performs mali
 ### Answer:
 **A) AES (Advanced Encryption Standard)**
 
+### Explanation:
+AES is widely used for encrypting sensitive data due to its strong security and efficiency.
+
+---
