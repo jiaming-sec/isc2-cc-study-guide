@@ -140,3 +140,11 @@ Full-disk encryption ensures that data remains unreadable even if the laptop is 
 - B) Implementing account lockout policies
 - C) Disabling user authentication
 - D) Allowing unlimited login attempts
+
+### Answer:
+**B) Implementing account lockout policies**
+
+### Explanation:
+Account lockout policies help prevent brute-force attacks by limiting the number of incorrect login attempts before locking an account temporarily.
+
+---
