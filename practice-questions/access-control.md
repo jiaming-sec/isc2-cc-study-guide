@@ -191,3 +191,11 @@ AES is widely used for encrypting sensitive data due to its strong security and 
 - B) An attack that exploits an unknown vulnerability
 - C) An attack launched from a compromised user account
 - D) An attack that targets open-source software
+
+### Answer:
+**B) An attack that exploits an unknown vulnerability**
+
+### Explanation:
+A zero-day attack exploits a vulnerability that is unknown to the software vendor and has no available patch.
+
+---
