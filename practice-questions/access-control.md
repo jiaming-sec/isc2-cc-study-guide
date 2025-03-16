@@ -158,3 +158,10 @@ Account lockout policies help prevent brute-force attacks by limiting the number
 - C) Spyware
 - D) Ransomware
 
+### Answer:
+**B) Trojan horse**
+
+### Explanation:
+A Trojan horse appears to be a legitimate software application but performs malicious actions once installed.
+
+---
