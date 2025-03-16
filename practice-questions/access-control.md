@@ -131,3 +131,12 @@ A DoS attack overwhelms a system with excessive requests, making it unavailable 
 Full-disk encryption ensures that data remains unreadable even if the laptop is lost or stolen, providing strong security protection.
 
 ---
+
+## Question 9
+**Which security measure is essential for preventing brute-force attacks on passwords?**
+
+### Options:
+- A) Using short passwords
+- B) Implementing account lockout policies
+- C) Disabling user authentication
+- D) Allowing unlimited login attempts
