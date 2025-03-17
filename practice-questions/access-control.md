@@ -216,3 +216,20 @@ A zero-day attack exploits a vulnerability that is unknown to the software vendo
 SIEM systems help organizations detect, analyze, and respond to security threats in real time by aggregating and analyzing log data from various sources.
 
 ---
+
+## Question 14
+**Which of the following is an example of a strong password policy?**
+
+### Options:
+- A) Using the same password across multiple accounts
+- B) Changing passwords every month without any complexity requirements
+- C) Using long, complex, and unique passwords for each account
+- D) Writing down passwords on a piece of paper
+
+### Answer:
+**C) Using long, complex, and unique passwords for each account**
+
+### Explanation:
+A strong password policy includes using long, complex, and unique passwords to reduce the risk of credential compromise.
+
+---
