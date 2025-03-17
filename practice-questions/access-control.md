@@ -262,3 +262,8 @@ A vulnerability scanner helps identify and report security weaknesses in systems
 
 ### Answer:
 **B) SQL Injection (SQLi)**
+
+### Explanation:
+SQL Injection attacks exploit vulnerabilities in web applications by injecting malicious SQL queries to manipulate or retrieve sensitive database information.
+
+---
