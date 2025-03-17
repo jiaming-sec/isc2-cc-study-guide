@@ -233,3 +233,20 @@ SIEM systems help organizations detect, analyze, and respond to security threats
 A strong password policy includes using long, complex, and unique passwords to reduce the risk of credential compromise.
 
 ---
+
+## Question 15
+**What is the role of a vulnerability scanner in cybersecurity?**
+
+### Options:
+- A) To actively exploit system vulnerabilities
+- B) To detect and report known security vulnerabilities in a system
+- C) To perform real-time malware removal
+- D) To act as a firewall replacement
+
+### Answer:
+**B) To detect and report known security vulnerabilities in a system**
+
+### Explanation:
+A vulnerability scanner helps identify and report security weaknesses in systems, allowing organizations to remediate vulnerabilities before attackers exploit them.
+
+---
