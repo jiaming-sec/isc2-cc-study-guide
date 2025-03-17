@@ -276,3 +276,11 @@ SQL Injection attacks exploit vulnerabilities in web applications by injecting m
 - B) HTTP
 - C) TLS/SSL
 - D) Telnet
+
+### Answer:
+**C) TLS/SSL**
+
+### Explanation:
+TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are cryptographic protocols used to encrypt web traffic and ensure secure communications over the internet.
+
+---
