@@ -250,3 +250,15 @@ A strong password policy includes using long, complex, and unique passwords to r
 A vulnerability scanner helps identify and report security weaknesses in systems, allowing organizations to remediate vulnerabilities before attackers exploit them.
 
 ---
+
+## Question 16
+**What type of attack involves an attacker injecting malicious SQL queries into a database?**
+
+### Options:
+- A) Cross-Site Scripting (XSS)
+- B) SQL Injection (SQLi)
+- C) Denial-of-Service (DoS)
+- D) Ransomware
+
+### Answer:
+**B) SQL Injection (SQLi)**
