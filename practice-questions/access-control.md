@@ -199,3 +199,20 @@ AES is widely used for encrypting sensitive data due to its strong security and 
 A zero-day attack exploits a vulnerability that is unknown to the software vendor and has no available patch.
 
 ---
+
+## Question 13
+**What is the purpose of a Security Information and Event Management (SIEM) system?**
+
+### Options:
+- A) To prevent malware infections
+- B) To collect, analyze, and correlate security data from multiple sources
+- C) To replace antivirus software
+- D) To create encryption keys
+
+### Answer:
+**B) To collect, analyze, and correlate security data from multiple sources**
+
+### Explanation:
+SIEM systems help organizations detect, analyze, and respond to security threats in real time by aggregating and analyzing log data from various sources.
+
+---
