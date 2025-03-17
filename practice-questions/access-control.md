@@ -267,3 +267,12 @@ A vulnerability scanner helps identify and report security weaknesses in systems
 SQL Injection attacks exploit vulnerabilities in web applications by injecting malicious SQL queries to manipulate or retrieve sensitive database information.
 
 ---
+
+## Question 17
+**Which protocol is commonly used to encrypt web traffic?**
+
+### Options:
+- A) FTP
+- B) HTTP
+- C) TLS/SSL
+- D) Telnet
