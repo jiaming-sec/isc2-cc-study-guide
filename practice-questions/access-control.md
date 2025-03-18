@@ -301,3 +301,12 @@ TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are cryptographic 
 EDR solutions provide real-time monitoring, threat detection, and response capabilities for endpoints, such as computers and mobile devices.
 
 ---
+
+## Question 7
+**Which type of cyber attack involves tricking a user into installing malicious software?**
+
+### Options:
+- A) Man-in-the-Middle (MitM)
+- B) Ransomware
+- C) Trojan Horse
+- D) Brute-force attack
