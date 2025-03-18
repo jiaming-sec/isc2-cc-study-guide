@@ -293,3 +293,11 @@ TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are cryptographic 
 - B) To monitor and respond to threats on individual devices
 - C) To encrypt email communication
 - D) To act as a firewall
+
+### Answer:
+**B) To monitor and respond to threats on individual devices**
+
+### Explanation:
+EDR solutions provide real-time monitoring, threat detection, and response capabilities for endpoints, such as computers and mobile devices.
+
+---
