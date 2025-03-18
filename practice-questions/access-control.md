@@ -310,3 +310,11 @@ EDR solutions provide real-time monitoring, threat detection, and response capab
 - B) Ransomware
 - C) Trojan Horse
 - D) Brute-force attack
+
+### Answer:
+**C) Trojan Horse**
+
+### Explanation:
+A Trojan Horse disguises itself as a legitimate program but performs malicious actions once installed on a device.
+
+---
