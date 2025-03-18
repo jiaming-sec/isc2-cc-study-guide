@@ -284,3 +284,12 @@ SQL Injection attacks exploit vulnerabilities in web applications by injecting m
 TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are cryptographic protocols used to encrypt web traffic and ensure secure communications over the internet.
 
 ---
+
+## Question 18
+**What is the primary function of endpoint detection and response (EDR) systems?**
+
+### Options:
+- A) To provide antivirus scanning only
+- B) To monitor and respond to threats on individual devices
+- C) To encrypt email communication
+- D) To act as a firewall
