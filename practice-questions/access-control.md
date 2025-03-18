@@ -302,7 +302,7 @@ EDR solutions provide real-time monitoring, threat detection, and response capab
 
 ---
 
-## Question 7
+## Question 19
 **Which type of cyber attack involves tricking a user into installing malicious software?**
 
 ### Options:
@@ -318,3 +318,12 @@ EDR solutions provide real-time monitoring, threat detection, and response capab
 A Trojan Horse disguises itself as a legitimate program but performs malicious actions once installed on a device.
 
 ---
+
+## Question 20
+**What is the best practice for securely managing API keys?**
+
+### Options:
+- A) Storing them in plain text files
+- B) Embedding them in public repositories
+- C) Using environment variables or secret management tools
+- D) Sharing them through email
