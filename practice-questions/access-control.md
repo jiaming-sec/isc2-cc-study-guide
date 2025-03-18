@@ -327,3 +327,6 @@ A Trojan Horse disguises itself as a legitimate program but performs malicious a
 - B) Embedding them in public repositories
 - C) Using environment variables or secret management tools
 - D) Sharing them through email
+
+### Answer:
+**C) Using environment variables or secret management tools**
