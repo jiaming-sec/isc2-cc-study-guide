@@ -330,3 +330,13 @@ A Trojan Horse disguises itself as a legitimate program but performs malicious a
 
 ### Answer:
 **C) Using environment variables or secret management tools**
+
+
+## Question 9
+**Which security concept refers to limiting user access to only the resources necessary for their job?**
+
+### Options:
+- A) Privilege escalation
+- B) Principle of least privilege
+- C) Multi-factor authentication
+- D) Network segmentation
