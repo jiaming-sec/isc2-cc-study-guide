@@ -340,3 +340,11 @@ A Trojan Horse disguises itself as a legitimate program but performs malicious a
 - B) Principle of least privilege
 - C) Multi-factor authentication
 - D) Network segmentation
+
+### Answer:
+**B) Principle of least privilege**
+
+### Explanation:
+The principle of least privilege restricts users to only the minimum level of access needed to perform their job, reducing the risk of insider threats and security breaches.
+
+---
