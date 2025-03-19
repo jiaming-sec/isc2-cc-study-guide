@@ -332,7 +332,7 @@ A Trojan Horse disguises itself as a legitimate program but performs malicious a
 **C) Using environment variables or secret management tools**
 
 
-## Question 9
+## Question 21
 **Which security concept refers to limiting user access to only the resources necessary for their job?**
 
 ### Options:
@@ -348,3 +348,12 @@ A Trojan Horse disguises itself as a legitimate program but performs malicious a
 The principle of least privilege restricts users to only the minimum level of access needed to perform their job, reducing the risk of insider threats and security breaches.
 
 ---
+
+## Question 22
+**What is an example of an insider threat?**
+
+### Options:
+- A) A disgruntled employee stealing sensitive company data
+- B) A hacker compromising a company's website from an external location
+- C) A brute-force attack against an admin account
+- D) A distributed denial-of-service (DDoS) attack targeting a cloud service
