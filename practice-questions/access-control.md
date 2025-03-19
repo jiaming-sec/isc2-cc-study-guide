@@ -357,3 +357,11 @@ The principle of least privilege restricts users to only the minimum level of ac
 - B) A hacker compromising a company's website from an external location
 - C) A brute-force attack against an admin account
 - D) A distributed denial-of-service (DDoS) attack targeting a cloud service
+
+### Answer:
+**A) A disgruntled employee stealing sensitive company data**
+
+### Explanation:
+An insider threat originates from individuals within an organization, such as employees or contractors, who misuse their access to harm the company.
+
+---
