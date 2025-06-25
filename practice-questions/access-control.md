@@ -365,3 +365,12 @@ The principle of least privilege restricts users to only the minimum level of ac
 An insider threat originates from individuals within an organization, such as employees or contractors, who misuse their access to harm the company.
 
 ---
+
+
+Which of these tools is commonly used to crack passwords? (★)
+Wireshark
+Nslookup
+Correct answer
+John the Ripper
+Your answer is incorrect
+Burp Suite
