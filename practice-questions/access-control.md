@@ -374,3 +374,15 @@ Correct answer
 John the Ripper
 Your answer is incorrect
 Burp Suite
+
+Which cryptographic attribute is demonstrated when Alice proves that Bob's message undeniably came from him?
+
+Your answer is incorrect
+Authentication
+
+Confidentiality
+
+Correct answer
+Non-repudiation
+
+Integrity
