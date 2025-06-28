@@ -386,3 +386,12 @@ Correct answer
 Non-repudiation
 
 Integrity
+
+
+Which of these has the PRIMARY objective of identifying and prioritizing critical business processes?
+Disaster Recovery Plan
+Business Impact Plan
+Correct answer
+Business Impact Analysis
+Your answer is incorrect
+Business Continuity Plan
