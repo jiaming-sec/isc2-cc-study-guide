@@ -395,3 +395,12 @@ Correct answer
 Business Impact Analysis
 Your answer is incorrect
 Business Continuity Plan
+
+Which cloud deployment model is suited to companies with similar needs and concerns?
+Your answer is incorrect
+Hybrid cloud
+Correct answer
+Community cloud
+Private cloud
+Multi-tenant
+
