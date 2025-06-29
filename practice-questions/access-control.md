@@ -404,3 +404,11 @@ Community cloud
 Private cloud
 Multi-tenant
 
+
+Which access control model can grant access to a given object based on complex rules?
+MAC
+DAC
+Correct answer
+ABAC
+Your answer is incorrect
+RBAC
