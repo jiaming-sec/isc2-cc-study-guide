@@ -412,3 +412,13 @@ Correct answer
 ABAC
 Your answer is incorrect
 RBAC
+
+Which of the following canons is found in the ISC2 code of ethics?
+Protect society, the common good, and the infrastructure
+Your answer is incorrect
+Act honorably, honestly, safely and legally
+Correct answer
+Provide diligent and competent service to principals
+Advance and promote the profession
+
+
