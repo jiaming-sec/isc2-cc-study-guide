@@ -436,3 +436,11 @@ Your answer is incorrect
 Apply all patches as quickly as possible
 Correct answer
 Test patches before applying them
+
+The predetermined set of instructions or procedures to sustain business operations after a disaster is commonly known as:
+Your answer is incorrect
+Disaster Recovery Plan
+Business Impact Plan
+Correct answer
+Business Continuity Plan
+Business Impact Analysis
