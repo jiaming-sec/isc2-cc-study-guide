@@ -421,4 +421,11 @@ Correct answer
 Provide diligent and competent service to principals
 Advance and promote the profession
 
+Which of the following is NOT a social engineering technique? (★)
+Pretexting
+Your answer is incorrect
+Baiting
+Correct answer
+Segregation
+Quid pro quo
 
