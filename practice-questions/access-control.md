@@ -429,3 +429,10 @@ Correct answer
 Segregation
 Quid pro quo
 
+A best practice of patch management is to:
+Apply patches every Wednesday
+Apply patches according to the vendor's reputation
+Your answer is incorrect
+Apply all patches as quickly as possible
+Correct answer
+Test patches before applying them
