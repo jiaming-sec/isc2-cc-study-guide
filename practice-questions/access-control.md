@@ -444,3 +444,12 @@ Business Impact Plan
 Correct answer
 Business Continuity Plan
 Business Impact Analysis
+
+
+Sensitivity is a measure of the …:
+… urgency and protection assigned to information by its owner
+Correct answer
+… importance assigned to information by its owner, or the purpose of representing its need for protection
+Your answer is incorrect
+… pertinence assigned to information by its owner, or the purpose of representing its need for urgency
+… protection and timeliness assigned to information by its owner, or the purpose of representing its need for urgency
