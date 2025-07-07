@@ -453,3 +453,11 @@ Correct answer
 Your answer is incorrect
 … pertinence assigned to information by its owner, or the purpose of representing its need for urgency
 … protection and timeliness assigned to information by its owner, or the purpose of representing its need for urgency
+
+According to the canon "Provide diligent and competent service to principals", ISC2 professionals are to:
+Promote the understanding and acceptance of prudent information security measures
+Take care not to tarnish the reputation of other professionals through malice or indifference
+Correct answer
+Avoid apparent or actual conflicts of interest
+Your answer is incorrect
+Treat all members fairly and,when resolving conflicts, consider public safety and duties to principals, individuals and the profession, in that order
