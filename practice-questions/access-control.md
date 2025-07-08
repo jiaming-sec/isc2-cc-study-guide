@@ -461,3 +461,12 @@ Correct answer
 Avoid apparent or actual conflicts of interest
 Your answer is incorrect
 Treat all members fairly and,when resolving conflicts, consider public safety and duties to principals, individuals and the profession, in that order
+
+The Bell and LaPadula access control model is a form of: (★)
+Your answer is incorrect
+ABAC
+DAC
+RBAC
+Correct answer
+MAC
+
