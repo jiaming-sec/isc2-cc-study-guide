@@ -470,3 +470,11 @@ RBAC
 Correct answer
 MAC
 
+Which type of attack has the PRIMARY objective controlling the system from outside?
+Correct answer
+Backdoors
+Cross-Site Scripting
+Rootkits
+Your answer is incorrect
+Trojans
+
